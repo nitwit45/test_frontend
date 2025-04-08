@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="200" height="50" viewBox="0 0 200 50" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <g>
+    <path d="M30 15 C30 23.284 23.284 30 15 30 C6.716 30 0 23.284 0 15 C0 6.716 6.716 0 15 0 C23.284 0 30 6.716 30 15" fill="white"/>
+    <path d="M15 7 L15 23 M9 15 L21 15" stroke="#1A237E" stroke-width="2"/>
+  </g>
+  <text x="40" y="22" font-family="Arial" font-size="20" font-weight="bold" fill="white">STRIVE</text>
+  <text x="40" y="42" font-family="Arial" font-size="20" font-weight="bold" fill="white">ACADEMICS</text>
+</svg> 
